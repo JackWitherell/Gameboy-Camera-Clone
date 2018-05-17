@@ -1,6 +1,6 @@
 ## Gameboy Camera Clone
-A clone of the GameBoy Camera written in Processing
-[![camera_demo](camera_demo.png)
+A clone of the GameBoy Camera written in Processing  
+![camera_demo](camera_demo.png)
 This java (processing) app is built to replicate the effect of the GameBoy Camera's image system by quantizing and dithering the image.
 
 Each part of the program is segmented as follows:
@@ -25,7 +25,7 @@ handles UI and UIObject classes which designate how UI objects are created and s
 
 # How does the Gameboy filter work?
 
-[![cam1](cam1.png)
+![cam1](cam1.png)
 
 I implemented Floyd-Steinberg Dithering which you can see an example of (along with the tutorial I followed) here: https://www.youtube.com/watch?v=0L2n8Tg2FwI
 
@@ -39,7 +39,7 @@ works great on windows and mac, probably linux and can be compiled easily for an
 
 ## Usage
 
-[![cam2](cam2.png)
+![cam2](cam2.png)
 
 In the current state of the app, the only controls are the arrow keys and X button to close.
 Using the arrow keys adjusts the brightness and contrast based on the sliders on the bottom and right side of the screen.

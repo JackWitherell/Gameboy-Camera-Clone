@@ -1,6 +1,6 @@
 ## Gameboy Camera Clone
 A clone of the GameBoy Camera written in Processing  
-![camera_demo](camera_demo.png)
+![camera_demo](camera_demo.png)  
 This java (processing) app is built to replicate the effect of the GameBoy Camera's image system by quantizing and dithering the image.
 
 Each part of the program is segmented as follows:
